@@ -29,7 +29,7 @@
 ## 実行方法
 
 
-　・git clone https://github.com/Asahi0801/task1.git
+  ・git clone https://github.com/Asahi0801/task1.git
  
  
   ・cd myled
