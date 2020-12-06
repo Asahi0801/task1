@@ -1,9 +1,9 @@
-# task1
+# ロボットシステム学　task1
 
 # 機能説明
 
 
-  ・0を入力した場合早く点滅します
+  ・0を入力した場合速く点滅します
   
   
   ・1を入力した場合遅く点滅します
@@ -24,6 +24,21 @@
 
 
 # 実行方法
+
+
+　・git clone https://github.com/Asahi0801/task1.git
+ 
+ 
+  ・cd myled
+  
+  
+  ・sudo insmod myled.ko
+  
+  
+  ・sudo chmod 666 /dev/myled
+  
+  
+  ・echo 0 or 1 > /dev/myled
 
 　
 
