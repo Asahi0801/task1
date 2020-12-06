@@ -3,6 +3,8 @@
 ## 機能説明
 
 
+  
+  
   ・0を入力した場合速く点滅します
   
   
@@ -11,6 +13,8 @@
   
   
 ## 用意するもの
+
+
 
 
   ・Raspberry Pi 4
@@ -27,6 +31,8 @@
 
 
 ## 実行方法
+
+
 
 
   ・git clone https://github.com/Asahi0801/task1.git
