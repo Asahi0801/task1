@@ -11,7 +11,7 @@
 # 用意するもの
 
 
-　・Raspberry Pi 4
+  ・Raspberry Pi 4
  
  
   ・ブレットボード
