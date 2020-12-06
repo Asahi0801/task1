@@ -17,16 +17,16 @@
 
 
 
-  ・Raspberry Pi 4
+    ・Raspberry Pi 4
  
  
-  ・ブレットボード
+    ・ブレットボード
   
   
-  ・ジャンパー線　4本
+    ・ジャンパー線　4本
   
   
-  ・抵抗　220Ω　1個
+    ・抵抗　220Ω　1個
   
 
 
@@ -35,19 +35,19 @@
 
 
 
-  ・git clone https://github.com/Asahi0801/task1.git
+    ・git clone https://github.com/Asahi0801/task1.git
  
  
-  ・cd myled
+    ・cd myled
   
   
-  ・sudo insmod myled.ko
+    ・sudo insmod myled.ko
   
   
-  ・sudo chmod 666 /dev/myled
+    ・sudo chmod 666 /dev/myled
   
   
-  ・echo 0 or 1 > /dev/myled
+    ・echo 0 or 1 > /dev/myled
 
 　
 
