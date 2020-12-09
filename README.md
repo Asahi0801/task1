@@ -33,9 +33,6 @@
 ## 実行方法
 
 
-    ・https://youtu.be/vi7FN_k27n0
-
-
 
 
     ・git clone https://github.com/Asahi0801/task1.git
@@ -56,6 +53,4 @@
  ## 動画
 
 　
-
-
-  
+      https://youtu.be/vi7FN_k27n0
