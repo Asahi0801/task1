@@ -51,7 +51,7 @@
    
    ## ７．ライセンス
    
-  GNU General Public License v3.0
+https://github.com/Asahi0801/task1/blob/master/COPYING
     
     
 
