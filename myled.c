@@ -1,4 +1,4 @@
-// SPDX-LICENSE-Identifer: GPL-2.0
+// SPDX-LICENSE-Identifer: GPL-3.0
 /*
  * Copyright (C) 2020 Asahi Nakayama. All rights reserved.
  */
