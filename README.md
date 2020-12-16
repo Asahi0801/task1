@@ -48,6 +48,10 @@
    ・echo 0を入力した場合速く点滅します
   
    ・echo 1を入力した場合遅く点滅します
+   
+   ## ７．ライセンス
+   
+   https://github.com/Asahi0801/task1/blob/master/COPYING
     
     
 
