@@ -1,6 +1,6 @@
 // SPDX-LICENSE-Identifer: GPL-3.0
 /*
- * Copyright (C) 2020 Asahi Nakayama. All rights reserved.
+ * Copyright (C) 2020 Asahi Nakayama and Ryuichi Ueda. All rights reserved.
  */
 
 #include <linux/module.h>
