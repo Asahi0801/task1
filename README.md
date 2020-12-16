@@ -23,10 +23,10 @@
    ## ４．動画
 
    ・https://youtu.be/vi7FN_k27n0
- 
-  
-　　## ５．実行方法
 
+  
+   ## ５.実行方法
+  
 
     ・git clone https://github.com/Asahi0801/task1.git
  
@@ -44,7 +44,6 @@
     
   
   
-
 
 　　## ６．機能説明
 
